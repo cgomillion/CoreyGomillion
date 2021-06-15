@@ -1,0 +1,26 @@
+img {
+    height: 400px;
+    width: 400px;
+}
+
+h1, h2, h3, h4, p {
+    text-align: center;
+}
+
+h1, h3 {
+    font-family: 'Roboto Slab', serif;
+}
+
+h4, p {
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    background-color: mediumaquamarine;
+}
+
+.links {
+    height: 80px;
+    width: 80px;
+}
+
