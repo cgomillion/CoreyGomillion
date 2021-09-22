@@ -1,6 +1,10 @@
 img {
     height: 400px;
     width: 400px;
+   
+}
+
+img:first-of-type {
     display: block;
     margin: auto;
 }
