@@ -30,3 +30,24 @@ body {
     width: 80px;
 }
 
+.group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p1 img {
+    margin: 5px;
+}
+
+.p2 img {
+    margin: 5px;
+}
+
+.p3 img {
+    margin: 5px;
+}
+
+.p4 img {
+    margin: 5px;
+}
